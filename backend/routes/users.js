@@ -12,7 +12,7 @@ router.route('/add').post(function(req, res) {
     const newUser = new User({username});
     newUser.save()
         .then(() => res.json("User Added!!"))
-        .catch(err => res.status(400).json('Error: '+err));
+        .catch(err => res.status(400).json('Error afzaal: '+err));
 });
 
 module.exports = router;

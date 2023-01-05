@@ -1,6 +1,6 @@
-var mongoose = require('mongoose');
+const mongoose = require('mongoose');
 
-var exerciseSchema = mongoose.schema({
+const exerciseSchema = mongoose.Schema({
     username :  {type : String, required : true},
     description :{type : String, required : true},
     duration :{type : Number, required : true},

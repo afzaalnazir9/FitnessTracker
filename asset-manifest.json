@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FitnessTrackerLive/static/css/main.e45f5597.css",
+    "main.js": "/FitnessTrackerLive/static/js/main.4a7ab7ef.js",
+    "index.html": "/FitnessTrackerLive/index.html",
+    "main.e45f5597.css.map": "/FitnessTrackerLive/static/css/main.e45f5597.css.map",
+    "main.4a7ab7ef.js.map": "/FitnessTrackerLive/static/js/main.4a7ab7ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45f5597.css",
+    "static/js/main.4a7ab7ef.js"
+  ]
+}

@@ -70,5 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-Create env file in backend folder and add 
+Create env file in backend folder and add
+ 
 ATLAS_URI=yourmongodbURLToConnectWithApp
+
